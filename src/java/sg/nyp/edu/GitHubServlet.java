@@ -11,5 +11,7 @@ package sg.nyp.edu;
  * @author burni
  */
 public class GitHubServlet {
-    
+    public String test() {
+        return "test";
+    }
 }
