@@ -12,6 +12,6 @@ package sg.nyp.edu;
  */
 public class GitHubServlet {
     public String test() {
-        return "test";
+        return "ok";
     }
 }
